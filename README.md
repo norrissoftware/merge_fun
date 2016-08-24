@@ -1,1 +1,1 @@
-# merge_fun
+# snap-ci/merge_fun 
